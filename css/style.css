@@ -185,6 +185,10 @@ html{
  #contact-box form{
     width: 40%;
  }
+ #contact-box button{
+   justify-content: center;
+   text-align: center;
+ }
  #contact-box label{
     font-size: 1.3rem;
     font-weight: bold;
@@ -212,7 +216,6 @@ html{
     font-size: 1.1rem;
     cursor: pointer;
  }
-
  .center{
     text-align: center;
  }
